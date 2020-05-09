@@ -1,0 +1,3 @@
+rootProject.name='My FanBox'
+include ':app'
+
